@@ -1,5 +1,13 @@
+![alt text](https://marlin.com.br/images/logo.png)
+
+
+
+
 # desafio-frontend-estagio
 Desafio para vaga de Estágio Front-End
+
+### Preparação
+Para iniciar o teste, faça um fork deste repositório, crie uma branch com o seu nome completo e depois envie-nos o pull request. Se você apenas clonar o repositório não vai conseguir fazer push e depois vai ser mais complicado fazer o pull request.
 
 ## O que deve ser entregue:  
 
@@ -23,13 +31,20 @@ Desafio para vaga de Estágio Front-End
 **Arquivo em anexo:** arquivo_3etapa_landingpage.rar
 
 
-**OBS.: **
+**OBS.:**
 
 •	Este projeto deverá funcionar nos navegadores mais recentes do mercado.
+
 •	Pode utilizar algum pré-processador para o seu css, de preferência SASS (opcional)
+
 •	Pode ser desenvolvido utilizando o framework React ou Gatsby (opcional)
+
 
 ### Avaliação
 
 Seu projeto será avaliado de acordo com a qualidade código entregue e sua organização com os arquivos utilizados.
 Levando em conta boas práticas, SEO, acessibilidade, minificação de arquivos, responsividade e fidelidade ao layout proposto.
+
+
+**Atenção:** Caso não consiga utilizar o Github, o projeto pode de enviado via [WeTransfer]: https://wetransfer.com/
+
